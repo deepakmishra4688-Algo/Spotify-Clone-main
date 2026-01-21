@@ -1,5 +1,7 @@
 🚀 🎵 Spotify Clone - Deepak Mishra
-Welcome to my Spotify Clone project! 🎵 This project focuses on building a high-performance, pixel-perfect music player interface with a smooth user experience and interactive UI elements.
+
+Welcome to my Spotify Clone project!
+🎵 This project focuses on building a high-performance, pixel-perfect music player interface with a smooth user experience and interactive UI elements.
 Here is a "properly" styled, professional yet trendy README.md for your project, packed with emojis and modern formatting to make your GitHub profile stand out! 🚀
 🧐 Overview
 This project is a visual recreation of the famous Spotify Web Player. It focuses on modern UI/UX principles, utilizing a clean layout, beautiful icons, and a dark-themed aesthetic that we all love! 🖤
@@ -45,4 +47,5 @@ Deepak Mishra BTech CSE-DS Student | Web Development Enthusiast 🎓
  * [x] Add responsive CSS Grid.
  * [ ] Add JavaScript for audio playback 🔊.
  * [ ] Integrate Spotify API for live data 🌐.
+       
 ⭐ If you like this project, feel free to give it a star! ⭐
